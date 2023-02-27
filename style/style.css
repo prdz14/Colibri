@@ -244,3 +244,6 @@ html {
 }
 
 /* footer */
+.media {
+    display: none;
+}
